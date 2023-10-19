@@ -35,6 +35,6 @@ void DrawMain()
     Sleep(0.5f);
     DrawText("Hello, world!!", -12*14/2, -66, kColorGray);
     //ああああああ
-    
+    //higashino
 }
 
