@@ -35,13 +35,13 @@ void DrawMain()
     Sleep(0.5f);
     DrawText("Hello, world!!", -12*14/2, -66, kColorGray);
     //ああああああ
-<<<<<<< HEAD
+
     //higashino
-=======
+
     
+
     //kinnikuman
-    
-    
->>>>>>> d3f8fc3d6d7512d6b018c59af10816752dd0fba8
 }
+    
+
 
